@@ -3,7 +3,7 @@ Python scripts to receive information from an RSS feed and an API full of possib
 
 # Files
 - Keywords
-- 
+  
 Keywords_file.py: The dictionary of keywords. Keys are the keywords and values are the weight associated with them.
 
 - RSS
