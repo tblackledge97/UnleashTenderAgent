@@ -1,0 +1,489 @@
+[
+  {
+    "Title": "Natural Hazards Technology Program: Accelerating Innovation & Adoption",
+    "description": "The Natural Hazards Technology Program (the ‘Program’) is a new $1.89 million competitive grants program in 2023/24 to accelerate technology innovation and adoption to better prepare for and respond to natural hazards by trialling field-ready technology with end-user NSW agencies. It builds on the success of the Bushfire Technology Pilots Program and expands the remit to provide tangible assistance in overcoming challenges from natural hazards, specifically floods and bushfires. There is also a big ideas stream where companies can propose innovative technologies for trialling to help identify future technology capabilities. The Program provides up to $250,000 in funding for companies to field test their technology solutions over a 12-month period with partnering NSW agencies. It aims to provide tangible assistance in overcoming challenges faced during all phases of natural hazards management, including Planning, Prevention, Preparedness, Response, and Recovery.",
+    "keyword_score": 3.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 1: Improved Modelling for Flood Prediction and Incident Management",
+    "description": "As a dam operator, I want to use a predictive model to assist me in determining the volumes and timing of pre-emptive water releases based on anticipated inflows to minimise downstream flood impact, especially under potential and actual flood conditions. The technology needs to provide predictive modelling on the timing and volume of inflows to major dams prior to and during flood events using gauging data, satellite information, and other inputs. Solutions should include a Common Operating Picture (COP)/dashboard that interfaces with existing telemetry and allows monitoring of current and forecasted rainfall across NSW.",
+    "keyword_score": 9.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 2: Maintaining Transport Routes Impacted by Natural Hazards (Mitigation Planning)",
+    "description": "The agency responsible for maintaining roads and transport infrastructure needs a way to prioritise planned mitigation works on identified routes. The solution should consider existing risk priorities, land use, environmental risks, seasonal risks, and climate change to ensure routes are resilient. The technology should deliver cost-effective planning, consume data from other agencies (weather, climate, asset data, etc.), and ideally predict geographical locations that could be impacted to adjust the work program (1-2 years in advance). Outputs should inform state-wide prioritisation and estimate job complexity.",
+    "keyword_score": 17.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 3: Heavy Plant Construction Models for Fire Containment Lines",
+    "description": "As a bushfire planner or incident controller, I want to be able to model time and scale scenarios for heavy plant construction of containment lines during fire operations in different terrain and vegetation types, factoring in various sizes, types, and combinations of machinery. The ideal solution is a computer-based model that can ingest fire map shapes, terrain, and vegetation layers, and general construction rates for different types of heavy plant to provide options for decision making and improve resource allocation during large-scale bushfire situations.",
+    "keyword_score": 0.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 4: Understanding Evacuation Behaviours using Real-Time Data",
+    "description": "Evacuation risk specialists want to use real-time data to understand the community's evacuation responses during and/or after natural hazards to improve planning and targeted warnings. Solutions should use new connected technology like connected vehicle data, smart phone data, remote sensing data, traffic cameras, and/or social media posts. Solutions must analyze the number, type, speed, and location of vehicles evacuating an area and provide this information in real time (or analyzed after the event).",
+    "keyword_score": 22.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 5: Managing Rockfall and Landslide Risk (Real-time Semi-Quantitative Assessment)",
+    "description": "The agency needs to develop a real–time, semi-quantitative assessment solution using live data and a geotechnical risk-mapping tool to establish and determine rockfall and landslide probability. The tool must integrate live and variable data like weather, seismic, visitation levels, geology, and groundwater and produce live output that is updated as new data is collected. The solution should include a simple, web-based viewing tool and allow data to be stored in the agency’s GIS datasets.",
+    "keyword_score": 8.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 6: Airborne Intelligence Processing and Integration (Overwatch TK-9 & 3DEO Zion-B Lidar)",
+    "description": "An operational decision-maker wants to visualize the integrated outputs of two existing airborne intelligence sensors (Overwatch TK-9 Imaging System and 3DEO Zion-B Lidar System) to provide a single platform for tactical and strategic mapping of fires, floods, fuel availability, and impact data. The solution requires live data processing and visualization of the integrated scan data, imagery, and Lidar sensors into a single output displayable in the RFS online GIS systems via a web-based service, with processing possible onboard the aircraft without internet connectivity.",
+    "keyword_score": 27.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 7: Command-and-Control Interface (Unified Operational Decisions)",
+    "description": "RFS requires a simple, automated user interface to execute command-and-control activities by integrating with many existing systems (Computer Aided Dispatch, ICON, Athena, etc.). The interface must draw on data from RFS systems, other agencies, text/picture information from communities, and imagery/video/geospatial information. The solution must integrate, collate, and interpret information in real time to provide a unified, effective view for managing large-scale and complex incidents.",
+    "keyword_score": 18.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 8: Intelligence Creation and Fusion for Emergency Operations",
+    "description": "Fire and Rescue NSW and RFS need to be able to interrogate and interact with all relevant information sources (reports, geospatial/remotely sensed information, video and images, IOT sensors, etc.) to provide timely, succinct intelligence to Incident Controllers. The solution must rapidly and collectively explore and harness this information, fuse it with live or changing data from IOT sensors featuring real-time updates and remotely sensing technologies including video and images, and predict issues based on changing information.",
+    "keyword_score": 23.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 9: Visualisation of Natural Hazard Impacts (Coastal Hazards and Flooding)",
+    "description": "Scientists and community engagement staff want to make information on coastal hazards and flooding more accessible through a visualization tool that can be viewed on mobile devices and online. The solution needs to interface with existing government data platforms and overlay a combination of relevant information (cadastral boundaries, building footprints, inundation and erosion extents based on future projections) into a single view (ideally with a slider approach for projections).",
+    "keyword_score": 0.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 10: Firefighter Respiratory Protection Device (RPD) Solution",
+    "description": "FRNSW is seeking a solution for a Respiratory Protection Device (RPD) that sits between self-contained breathing apparatus and P2 dust masks. Firefighters require a device that protects against particulates and specific contaminates (A2, B2, E2, K2, Hg, P3) but is easier to breathe through than the current P3 Combi filter system, especially during heavy work.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Challenge 11: Water Alternatives for Firefighting Operations",
+    "description": "FRNSW is seeking alternatives to water for firefighting operations. This is a material science or equipment challenge focused on suppression agents.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Challenge 12: Bushfire Fuel Moisture Monitoring (Real-time and Predictive)",
+    "description": "FCNSW and NPWS require bushfire fuel moisture monitoring technology. Solutions need to provide real-time and possibly predictive data on fuel moisture content to improve fire danger ratings, resource allocation, and mitigation planning. This is an essential input for fire behaviour prediction models.",
+    "keyword_score": 17.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 13: Remote Ignition Detection and Suppression",
+    "description": "NPWS requires technology for remote ignition detection and suppression. The system must rapidly identify and respond to early-stage ignitions in remote areas, minimizing response time and impact. This is a perfect application for computer vision using camera systems and AI for smoke/flame detection.",
+    "keyword_score": 14.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 14: Hazardous Tree Identification",
+    "description": "RFS requires technology to automatically and reliably identify hazardous trees that pose a risk to personnel and infrastructure during and after natural hazard events. This supports safer operations and planning. This is a pure visual asset inspection and computer vision task.",
+    "keyword_score": 9.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 15: Rapid Asset Condition and Damage Assessment (Post-Disaster)",
+    "description": "A consortium of agencies requires technology for rapid asset condition and damage assessment following natural hazard events. This system must quickly capture, process, and report on the extent of damage to various assets to accelerate recovery planning. This is a direct use case for drone/aerial imagery and AI models.",
+    "keyword_score": 17.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 16: Delivery of Emergency Supplies to Isolated Locations",
+    "description": "FRNSW needs a solution for the delivery of emergency supplies to isolated locations during or after a disaster where traditional access is cut off. This likely involves logistics technology, such as drones or other autonomous delivery systems.",
+    "keyword_score": 5.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 17: Tracking Seabed, Beach, and Dune Change Over Time",
+    "description": "DCCEEW requires technology for tracking seabed, beach, and dune change over time. The solution must provide continuous, accurate spatial data to monitor coastal erosion and accumulation processes.",
+    "keyword_score": 9.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 18: Measuring Water Flow and Bathymetry in Rivers",
+    "description": "DCCEEW and Water NSW require technology for measuring water flow and bathymetry in rivers. The solution must accurately map riverbed topography and quantify flow rates, often using methods like Lidar or camera-based tracking.",
+    "keyword_score": 9.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 19: Water Quality Monitoring and Predictive Capabilities",
+    "description": "DCCEEW and Water NSW require technology for water quality monitoring and predictive capabilities. While requiring sensor data, the solution must use data to create predictive models and integrate the findings for visualization and planning.",
+    "keyword_score": 9.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 20: Monitoring and Maintenance of Dissolved Oxygen in Rivers",
+    "description": "DCCEEW needs a solution for monitoring and maintenance of dissolved oxygen in rivers. This typically involves hardware (aeration) or specialized sensors to maintain healthy water levels.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Challenge 21: Multilingual Emergency Warnings",
+    "description": "DCS, RFS, and SES require solutions for multilingual emergency warnings to ensure critical information reaches diverse communities.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Challenge 22: Auslan Presentation of Warnings",
+    "description": "DCS, RFS, and SES require solutions for the Auslan presentation of warnings to ensure accessibility for the deaf and hard-of-hearing community.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Challenge 23: Connectivity to the Hazards Near Me App",
+    "description": "DCS, RFS, and SES are seeking solutions to improve connectivity to the Hazards Near Me app and ensure reliable access during emergencies.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Challenge 24: Voice Connectivity and Vehicle Tracking for Regional and Remote Staff",
+    "description": "TfNSW requires solutions for voice connectivity and vehicle tracking for staff operating in regional and remote areas. The vehicle tracking component aligns with computer vision applications via on-board or external cameras.",
+    "keyword_score": 4.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Challenge 25: Hearing Aids for Firefighters",
+    "description": "NPWS requires specialized hearing aids for firefighters to be used safely and effectively in noisy, high-risk environments.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "RFP: Productionised AI Solution for Essential Energy Asset Inspection Auditing (Computer Vision Model)",
+    "description": "Essential Energy, one of Australia's largest electricity distribution networks, is seeking a supplier to deliver a fully productionised AI solution for asset inspection auditing. The initial use case is a Computer Vision tool for Asset Inspection Auditing (likely power poles, based on a successful GPT-4 vision POC). The solution must be supportable and scalable to other vision models (e.g., vegetation, streetlights). It requires integration with Essential Energy's core Oracle EAM system (WACS) and must comply with the NSW AI Framework (privacy, transparency, bias mitigation). The scope includes design, build, rigorous testing (SIT, UAT), documentation, training, and ongoing Level 3 support.",
+    "keyword_score": 37.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "RFP: Powerline Safety & Bushfire Risk Inspection (PSBI) Program Aerial & Drone Services",
+    "description": "Essential Energy requires external suppliers to deliver its P1 Maintenance Area Powerline Safety and Bushfire Risk Inspection (PSBI) Program for its High Bushfire Risk Areas. The program covers approximately 14,000 km of rural powerlines (118,738 pole structures) and requires 100% accuracy on the identification and rectification of Bushfire Risk Defect Tasks. The tender explicitly asks for rates for 'Visual network Inspection Aerial' and 'Visual network Inspection Ground based Drone' solutions. Suppliers must report High Priority defects immediately (e.g., Vegetation Touching HV) and provide High Definition Asset Images for desktop inspection of distribution hardware condition.",
+    "keyword_score": 5.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "RFT FRNSW000174: Provision of Video Streaming Platform for FRNSW",
+    "description": "Fire and Rescue NSW (FRNSW) is seeking proposals for a comprehensive Video Streaming Platform. The solution must be capable of providing 99.99% availability and is required to be compatible with existing hardware, specifically DJI brand drones and Bronto Skylift mounted cameras (Oculus TI PTZ Thermal). The scope includes initial procurement, implementation (customization, integration, infrastructure setup), and training for 50 end users and 5 technical administrators. Pricing must detail the licensing model, ongoing technical support, maintenance, hosting fees, and subscription costs. Capability to assess stream quality and latency will be assessed.",
+    "keyword_score": 23.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "RFP: Essential Energy AI Initiatives – Phase 1 Computer Vision Solution for Asset Inspection Auditing",
+    "description": "Essential Energy is seeking a partner to implement a scalable, fully supported Computer Vision Model (CVM) solution for its AI initiatives. The initial use case is Phase 1 – Asset Inspection Audit, which requires the system to identify broken or defective components within an image using AI. The solution must handle batch image input and filter the most useful photos to audit fieldwork activities and find human errors. The delivery model is rapid (90-day timeline), and proposals must include a comprehensive support plan, SLAs, subscription costs, and transaction/query costs per 1000 inferences.",
+    "keyword_score": 34.0,
+    "is_relevant": true
+  },
+
+
+
+
+
+
+  {
+    "Title": "Supply of Computer Equipment",
+    "description": "The Department of Finance requires the supply of desktop computers and laptops.",
+    "keyword_score": 4.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Catering Services",
+    "description": "Request for a supplier to provide catering services for an upcoming conference.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Software Development Project",
+    "description": "Seeking a vendor to develop a new web-based application to manage payroll for a government agency.",
+    "keyword_score": 7.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "IT Systems Upgrade",
+    "description": "The Department of Human Services requires a vendor to upgrade their legacy IT infrastructure to a modern cloud-based system.",
+    "keyword_score": 11.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Supply of Office Supplies",
+    "description": "Tender for the procurement of office stationery, paper, and other general supplies for all government departments.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Security Consulting and Risk Assessment",
+    "description": "Seeking a security firm to conduct a comprehensive cyber security risk assessment and provide consulting services.",
+    "keyword_score": 10.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Renovation of Parliament House Building",
+    "description": "Tender for construction and renovation services for a historical government building.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Web Hosting and Maintenance Services",
+    "description": "Call for tenders for ongoing web hosting, maintenance, and technical support for a series of government websites.",
+    "keyword_score": 8.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Supply and Installation of Solar Panels",
+    "description": "Tender for a supplier to install solar panels on various government buildings.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Development of a new mobile application for public services.",
+    "description": "Seeking a vendor to design and build a new mobile application for citizen engagement.",
+    "keyword_score": 7.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Provision of medical and surgical supplies for a public hospital.",
+    "description": "Tender for a supplier of medical and surgical equipment to a government-operated hospital network.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Data migration services from legacy system to cloud platform.",
+    "description": "Tender for a specialized firm to provide data migration services from an old database system to a new cloud platform.",
+    "keyword_score": 7.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Call for tenders for new office furniture and fixtures.",
+    "description": "Seeking proposals for the provision of office chairs, desks, and filing cabinets.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "IT infrastructure audit and vulnerability assessment.",
+    "description": "Tender for an independent firm to conduct a full audit of our IT infrastructure for security vulnerabilities.",
+    "keyword_score": 9.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Supply of Office Desks and Chairs",
+    "description": "Tender for a supplier to provide new office furniture for a government office refit.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Enterprise Resource Planning (ERP) System Implementation",
+    "description": "Seeking a vendor to implement and customize a new ERP system to manage all business processes.",
+    "keyword_score": 11.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Building Security and Access Control System",
+    "description": "Tender for a supplier to install and maintain a new security system, including CCTV and access control.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Cloud Computing Infrastructure and Managed Services",
+    "description": "Seeking a provider for managed cloud services, including hosting, storage, and platform support.",
+    "keyword_score": 11.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Provision of Catering and Hospitality Services",
+    "description": "Tender for a caterer to provide daily food and beverage services at a government building.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Application Modernization and Re-platforming",
+    "description": "Seeking a vendor to modernize a legacy application, migrating it to a modern, scalable platform.",
+    "keyword_score": 7.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Road Maintenance and Repair",
+    "description": "Tender for routine maintenance and repair services on public roads and infrastructure.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Cybersecurity Penetration Testing and Audit",
+    "description": "Seeking an expert firm to perform penetration testing and a full security audit of our network infrastructure.",
+    "keyword_score": 10.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Pest Control Services for Government Buildings",
+    "description": "Tender for pest management and control services for a variety of government facilities.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "IT Systems Integration Project",
+    "description": "Seeking a vendor to integrate multiple disparate IT systems into a single, cohesive platform.",
+    "keyword_score": 9.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Supply of Personal Protective Equipment (PPE)",
+    "description": "Tender for a supplier of safety equipment, including gloves, masks, and protective clothing.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Development of a new data analytics platform for market research.",
+    "description": "Seeking a provider for a new web-based platform to analyze market data and generate reports.",
+    "keyword_score": 7.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Recruitment and Staffing Services",
+    "description": "Tender for a staffing agency to provide temporary and permanent recruitment services.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Maintenance and Support of Legacy IT System",
+    "description": "Seeking a vendor to provide ongoing maintenance and support for an outdated IT system until a replacement can be found.",
+    "keyword_score": 7.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Vehicle Fleet Management Services",
+    "description": "Tender for a third-party to manage and maintain a fleet of government vehicles.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Supply of network routers and switches.",
+    "description": "Tender for a supplier to provide networking hardware and equipment for a data center upgrade.",
+    "keyword_score": 4.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Real-Time AI Monitoring for Construction Site Safety",
+    "description": "Safework Authority seeks a system utilizing **CCTV and Computer Vision** to detect non-compliance with PPE regulations (e.g., hard hats) and identify hazardous near-miss events (e.g., workers near heavy machinery) in **real-time** on active sites.",
+    "keyword_score": 24.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Drone-Based Inspection of Wind Turbine Blades",
+    "description": "RFP for a service that uses **drone imagery and AI defect recognition** to automatically detect cracks, erosion, and lightning strike damage on wind turbine blades, providing **geospatial reporting** and condition scores.",
+    "keyword_score": 20.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Platform for Multi-Sensor River Debris Detection",
+    "description": "Requires a scalable platform to ingest and analyze feeds from **fixed-position cameras** and **satellite imagery** for the automatic detection, classification, and tracking of **floating river debris** and illegal dumping locations.",
+    "keyword_score": 18.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "AI-Powered Pedestrian Flow Analysis for Public Transport",
+    "description": "Seeking a solution to analyze **existing traffic camera feeds** to generate anonymized data on **pedestrian density, flow direction, and queue length** at major transport hubs to optimize crowd management and service scheduling.",
+    "keyword_score": 17.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Automated Rail Track Inspection using Thermal and Visual Data",
+    "description": "Requires a system using **on-board cameras (visual and thermal)** mounted on maintenance trains to perform **automated analysis** for track defect detection (e.g., rail seat deterioration, ballast contamination) and integrate results with maintenance tickets.",
+    "keyword_score": 20.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Real-Time AI for Warehouse Inventory Audit",
+    "description": "Needs a solution to use **overhead camera systems** to perform **real-time inventory reconciliation**, counting pallets/items and verifying stock against the WMS through **object detection and tracking** to reduce manual cycle counts.",
+    "keyword_score": 18.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Detection and Classification of Invasive Marine Species",
+    "description": "Seeks a partner to develop an **AI model** capable of processing underwater video and imagery captured by ROVs/Drones to **automatically detect and classify invasive marine species** (e.g., Crown-of-Thorns Starfish).",
+    "keyword_score": 16.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Digital Transformation of Underground Mining Inspection",
+    "description": "RFP for an advanced platform to centralize and analyze video and Lidar data captured by **autonomous inspection robots** within underground tunnels, focusing on automated detection of rock stress and structural fatigue.",
+    "keyword_score": 19.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Real-time Fire Smoke Plume and Flare Detection",
+    "description": "Requires an advanced system leveraging **fixed and PTZ thermal/visual cameras** to detect and track the size, density, and spread of **smoke plumes and gas flares** in real-time, integrating alerts with the control room.",
+    "keyword_score": 22.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Asset Tag and Serial Number Recognition Automation",
+    "description": "Seeks a CVM solution to automatically read and log alphanumeric asset tags and serial numbers from **field photos captured by technicians** to automate the asset data capture process and eliminate data entry errors.",
+    "keyword_score": 15.0,
+    "is_relevant": true
+  },
+  {
+    "Title": "Provision of Corporate Legal Services Panel",
+    "description": "Seeking submissions to join a legal services panel providing advice on administrative law, commercial contracts, and litigation for a period of three years.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Upgrade of Government Call Centre VOIP System",
+    "description": "Tender for the supply, installation, and ongoing maintenance of a new Voice over IP (VOIP) telephone system and related unified communications software for a large call centre operation.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Supply of Commercial Grade Printing Equipment",
+    "description": "RFT for the purchase and maintenance of several high-volume, commercial-grade digital printing presses and associated finishing equipment for government publications.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Development of a New Financial Budgeting Software",
+    "description": "Requires a vendor to design and code a custom enterprise budgeting and forecasting software application that integrates with the general ledger system.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Bulk Purchase of Personal Protective Equipment (PPE)",
+    "description": "Tender for the bulk supply of standard personal protective equipment, including safety glasses, gloves, disposable coveralls, and hearing protection, over a five-year period.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Outsourced Payroll Processing Services",
+    "description": "Seeks a specialist provider to manage and process the monthly payroll for approximately 5,000 employees, including superannuation and tax compliance.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Supply and Installation of Emergency Diesel Generators",
+    "description": "RFT for the supply and physical installation of two high-capacity, backup diesel generators to ensure continuous power supply to the main government data centre.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Implementation of a Document Management System",
+    "description": "Seeking a vendor to implement a new Electronic Document and Records Management System (EDRMS) to manage internal records, requiring extensive configuration and user migration.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Provision of Employee Wellness and Counselling Services",
+    "description": "Tender for a provider to offer confidential employee assistance programs (EAP), including mental health counselling, financial advice, and general wellness support.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  },
+  {
+    "Title": "Procurement of Electric Vehicles for Fleet Replacement",
+    "description": "Request for manufacturers or dealerships to supply a large volume of fully electric passenger vehicles and commercial vans for the government's fleet replacement program.",
+    "keyword_score": 0.0,
+    "is_relevant": false
+  }
+]
+
