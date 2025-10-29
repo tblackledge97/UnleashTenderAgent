@@ -9,6 +9,7 @@ import joblib
 import numpy as np
 from scipy.sparse import hstack, csr_matrix
 from keywords_file import keywords
+from datetime import date
 
 
 load_dotenv()
@@ -165,6 +166,8 @@ def post_to_hubspot(tender):
             "url": tender.get("url", "N/A"),
 
             "ml_recommendation": str(tender['ml_recommendation']),
+
+            "date_added": date.today().isoformat()
         }
     }
 
@@ -230,6 +233,10 @@ def post_to_notion(tender):
             "MLRecommendation": {
                 "rich_text": [{"text": {"content": str(tender.get("ml_recommendation", ""))}}]
             },
+
+            "date_added": {
+                "date": {"start": date.today().isoformat()}
+            }
         }
     }
 

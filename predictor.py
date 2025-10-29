@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 import requests
 import xml.etree.ElementTree as ET
 from keywords_file import keywords
+from datetime import date
 
 load_dotenv()
 HUBSPOT_TOKEN = os.getenv("HUBSPOT_TOKEN")
@@ -258,7 +259,9 @@ def post_to_hubspot(match_data):
             "url": match_data.get('url', 'N/A'),
 
             # country name
-            "country_name": match_data.get('countryname', 'N/A')
+            "country_name": match_data.get('countryname', 'N/A'),
+
+            "date_added": date.today().isoformat()
 
             # how much is the tender 
             # hubspot_totalcontractvalue
@@ -333,6 +336,10 @@ def post_to_notion(match_data):
             # country name
             "countryname": {
                "rich_text": [{"text": {"content": match_data.get('countryname', 'N/A')}}]
+            },
+
+            "date_added": {
+                "date": {"start": date.today().isoformat()}
             }
 
             # how much is the tender 
@@ -415,7 +422,8 @@ if __name__ == '__main__':
                             "ml_recommendation": bool(prediction),
                             "status": "New Lead",
                             "companyname": "companyname",
-                            "countryname": tender_data.get('countryname', 'N/A')
+                            "countryname": tender_data.get('countryname', 'N/A'),
+                            "date_added": date.today().isoformat()
                             #"value": tender_data.get('value')
                         }
                         final_matches.append(match_details)
